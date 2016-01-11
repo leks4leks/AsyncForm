@@ -1,0 +1,9 @@
+c:\users\aleks\documents\visual studio 2013\Projects\AsyncForm\AsyncForm\bin\Debug\AsyncForm.exe.config
+c:\users\aleks\documents\visual studio 2013\Projects\AsyncForm\AsyncForm\bin\Debug\AsyncForm.exe
+c:\users\aleks\documents\visual studio 2013\Projects\AsyncForm\AsyncForm\bin\Debug\AsyncForm.pdb
+c:\users\aleks\documents\visual studio 2013\Projects\AsyncForm\AsyncForm\obj\Debug\AsyncForm.csprojResolveAssemblyReference.cache
+c:\users\aleks\documents\visual studio 2013\Projects\AsyncForm\AsyncForm\obj\Debug\AsyncForm.Form1.resources
+c:\users\aleks\documents\visual studio 2013\Projects\AsyncForm\AsyncForm\obj\Debug\AsyncForm.Properties.Resources.resources
+c:\users\aleks\documents\visual studio 2013\Projects\AsyncForm\AsyncForm\obj\Debug\AsyncForm.csproj.GenerateResource.Cache
+c:\users\aleks\documents\visual studio 2013\Projects\AsyncForm\AsyncForm\obj\Debug\AsyncForm.exe
+c:\users\aleks\documents\visual studio 2013\Projects\AsyncForm\AsyncForm\obj\Debug\AsyncForm.pdb
